@@ -1,0 +1,2 @@
+This is the commit from develop branch 
+This shuld be automatic 
